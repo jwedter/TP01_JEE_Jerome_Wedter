@@ -8,3 +8,9 @@ R- lors de l'action GET, le serveur renvoi les resoources souhaitées au client.
 Pour le POST, le serveur crée la ressource souhaitée par le client. Pour le DELETE
 ou le PUT, il se passe rien.
 
+
+-- Ou se trouve le fichier etudiants.csv ? Savez-vous pourquoi?
+R- Ce fichier se trouve sur le serveur parcequ'il a été créé sur le serveur
+
+
+
